@@ -1,0 +1,12 @@
+*{
+    background-color: #DDE5B6;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    height: 310px;
+    width: 415px;
+    row-gap: 5px;
+    column-gap: 5px;
+}
